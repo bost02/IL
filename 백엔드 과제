@@ -25,6 +25,8 @@ Class의 멤버 [데이터]와 함수를 다른 Class에 물려주거나, 물려
 
 ### 주요 매서드
 
+ <img src=https://seasome1.com/wp-content/uploads/2023/06/image-20.png width="200" height="200">
+
 GET: 리소스 조회, 검색
 POST: 요청 데이터 처리, 주로 등록에 사용
 POST는 서버에 데이터를 제출하여 처리하거나 새 리소스를 만드는 데 사용
